@@ -1,4 +1,4 @@
-# 
+# VIP dYdX交易机器人 附加组件 for Mac OS | 终极 dYdX交易机器人 附加组件 for PC Windows. Featuring 去中心化交易所API and 均值回归策略 — optimized for maximum performance.
 
 
 
